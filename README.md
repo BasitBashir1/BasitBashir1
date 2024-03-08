@@ -25,4 +25,4 @@ I love exploring new technologies and leveraging them to build innovative soluti
 ## 📫 Get in Touch
 
 - LinkedIn: [Basit Bashir](https://www.linkedin.com/in/basit-bashir)
-- GitHub: [github.com/BasitBashir1]
+- GitHub: (github.com/BasitBashir1)
