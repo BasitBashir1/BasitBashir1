@@ -2,7 +2,7 @@
 <h2 align="left">A passionate self-taught frontend developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h2>
 <h3 align="left">  I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
-- 💬 Ask me about anything **I am happy to help;**
+- 💬 Ask me about anything **I am happy to help;**    https://github.com/BasitBashir1/BasitBashir1/blob/main/code.gif
 
 - 📫 How to reach me **mirbasitt1900@gmail.com**
 
